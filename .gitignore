@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build.npz
+build_palette.json
+world_out/
+renders/
+*.litematic
+*.mca
+*.jar
+.venv/
